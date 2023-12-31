@@ -1,0 +1,495 @@
+{
+  "Exploratory Analysis": {
+    "CDR3 length distribution": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/len/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    },
+    "Clonotype volume (Number of clonotypes)": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/volume/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    },
+    "Clonotype abundances": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/count/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    }
+  },
+  "Clonality Analysis": {
+    "Top Clones": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/top_clones/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    },
+    "Rare Clones": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/rare_clones/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    },
+    "Clonal Space Homeostasis": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/homeo_clones/DEFAULT.png",
+            "name": {}
+          }
+        ]
+      }
+    }
+  },
+  "Repertoire Overlaps": {
+    "public": {
+      "#": {
+        "flat": [
+          {
+            "kind": "table_image",
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/overlap/public/public.png",
+            "descr": "Repertoire overlap is the most common approach to measure repertoire similarity, using method <code>public<\/code>, number of public (shared) clonotypes, a classic measure of overlap similarity"
+          }
+        ]
+      }
+    }
+  },
+  "Gene Usage": {
+    "#": {
+      "#": {
+        "flat": [
+          {
+            "kind": "table_image",
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/gene_usage/DEFAULT/DEFAULT.png",
+            "descr": "Distribution of known gene segments following the <a href=\"http://www.imgt.org/IMGTrepertoire/LocusGenes/\" target=\"_blank\">IMGT<\/a> nomenclature."
+          }
+        ]
+      }
+    }
+  },
+  "Spectratyping": {
+    "#": {
+      "#": {
+        "flat": [
+          {
+            "kind": "descr",
+            "content": "Spectratype is a useful way to represent distributions of genes per sequence length."
+          }
+        ]
+      }
+    },
+    "By_Clonotype": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV15KSATumor.spect",
+            "name": "HPV15_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV15QVDTumor.spect",
+            "name": "HPV15_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV34KSAmetLN.spect",
+            "name": "HPV34_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV34PD1posTumor.spect",
+            "name": "HPV34_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV34PD1posmetLN.spect",
+            "name": "HPV34_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV34QVDTumor.spect",
+            "name": "HPV34_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV34QVDmetLN.spect",
+            "name": "HPV34_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV37QVDmetLN.spect",
+            "name": "HPV37_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV42QVDTumor.spect",
+            "name": "HPV42_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV51KSATumor.spect",
+            "name": "HPV51_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV51PD1posTumor.spect",
+            "name": "HPV51_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV51PD1posmetLN.spect",
+            "name": "HPV51_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV51QVDTumor.spect",
+            "name": "HPV51_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV51QVDmetLN.spect",
+            "name": "HPV51_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV7KSATumor.spect",
+            "name": "HPV7_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV7KSAmetLN.spect",
+            "name": "HPV7_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV7PD1posTumor.spect",
+            "name": "HPV7_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV7PD1posmetLN.spect",
+            "name": "HPV7_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByClonotype/HPV7QVDmetLN.spect",
+            "name": "HPV7_QVD_metLN"
+          }
+        ]
+      }
+    },
+    "By_Num_Clones": {
+      "#": {
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV15KSATumor.spect",
+            "name": "HPV15_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV15QVDTumor.spect",
+            "name": "HPV15_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV34KSAmetLN.spect",
+            "name": "HPV34_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV34PD1posTumor.spect",
+            "name": "HPV34_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV34PD1posmetLN.spect",
+            "name": "HPV34_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV34QVDTumor.spect",
+            "name": "HPV34_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV34QVDmetLN.spect",
+            "name": "HPV34_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV37QVDmetLN.spect",
+            "name": "HPV37_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV42QVDTumor.spect",
+            "name": "HPV42_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV51KSATumor.spect",
+            "name": "HPV51_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV51PD1posTumor.spect",
+            "name": "HPV51_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV51PD1posmetLN.spect",
+            "name": "HPV51_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV51QVDTumor.spect",
+            "name": "HPV51_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV51QVDmetLN.spect",
+            "name": "HPV51_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV7KSATumor.spect",
+            "name": "HPV7_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV7KSAmetLN.spect",
+            "name": "HPV7_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV7PD1posTumor.spect",
+            "name": "HPV7_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV7PD1posmetLN.spect",
+            "name": "HPV7_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/spectratyping/ByNumClones/HPV7QVDmetLN.spect",
+            "name": "HPV7_QVD_metLN"
+          }
+        ]
+      }
+    }
+  },
+  "Diversity Estimation": {
+    "gini": {
+      "#": {
+        "flat": [
+          {
+            "kind": "descr",
+            "content": "Diversity estimation using <code>gini<\/code>: the Gini coefficient measures the inequality among values of a frequency distribution (for example levels of income). A Gini coefficient of zero expresses perfect equality, where all values are the same (for example, where everyone has the same income). A Gini coefficient of one (or 100 percents ) expresses maximal inequality among values (for example where only one person has all the income)."
+          }
+        ],
+        "tabs": [
+          {
+            "name": "Diversity Plot",
+            "contents": [
+              {
+                "kind": "image",
+                "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/diversity/gini/diversity.png"
+              }
+            ]
+          },
+          {
+            "name": "Diversity Table",
+            "contents": [
+              {
+                "kind": "table",
+                "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/diversity/gini/diversity.txt"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "Kmer and sequence motif analysis": {
+    "#": {
+      "#": {
+        "flat": [
+          {
+            "kind": "descr",
+            "content": "Counting k-mer occurrences"
+          }
+        ]
+      },
+      "Kmer sequence occurrences": {
+        "flat": [
+          {
+            "kind": "descr",
+            "content": "K-mer sequence occurrences and motif analysis of CDR3 amino acid sequences"
+          },
+          {
+            "kind": "image",
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/Allsamples.png"
+          }
+        ]
+      },
+      "Motif analysis": {
+        "flat": [],
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv15ksatumor-profile.png",
+            "name": "HPV15_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv15qvdtumor-profile.png",
+            "name": "HPV15_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv34ksametln-profile.png",
+            "name": "HPV34_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv34pd1postumor-profile.png",
+            "name": "HPV34_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv34pd1posmetln-profile.png",
+            "name": "HPV34_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv34qvdtumor-profile.png",
+            "name": "HPV34_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv34qvdmetln-profile.png",
+            "name": "HPV34_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv37qvdmetln-profile.png",
+            "name": "HPV37_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv42qvdtumor-profile.png",
+            "name": "HPV42_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv51ksatumor-profile.png",
+            "name": "HPV51_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv51pd1postumor-profile.png",
+            "name": "HPV51_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv51pd1posmetln-profile.png",
+            "name": "HPV51_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv51qvdtumor-profile.png",
+            "name": "HPV51_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv51qvdmetln-profile.png",
+            "name": "HPV51_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv7ksatumor-profile.png",
+            "name": "HPV7_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv7ksametln-profile.png",
+            "name": "HPV7_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv7pd1postumor-profile.png",
+            "name": "HPV7_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv7pd1posmetln-profile.png",
+            "name": "HPV7_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/kmer/DEFAULT/hpv7qvdmetln-profile.png",
+            "name": "HPV7_QVD_metLN"
+          }
+        ]
+      }
+    }
+  },
+  "V-J Junction Circos Plots": {
+    "#": {
+      "#": {
+        "flat": [
+          {
+            "kind": "descr",
+            "content": "V-J usage plot displaying the frequency of various V-J junctions."
+          }
+        ],
+        "table_of_images": [
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv15ksatumor.png",
+            "name": "HPV15_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv15qvdtumor.png",
+            "name": "HPV15_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv34ksametln.png",
+            "name": "HPV34_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv34pd1postumor.png",
+            "name": "HPV34_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv34pd1posmetln.png",
+            "name": "HPV34_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv34qvdtumor.png",
+            "name": "HPV34_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv34qvdmetln.png",
+            "name": "HPV34_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv37qvdmetln.png",
+            "name": "HPV37_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv42qvdtumor.png",
+            "name": "HPV42_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv51ksatumor.png",
+            "name": "HPV51_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv51pd1postumor.png",
+            "name": "HPV51_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv51pd1posmetln.png",
+            "name": "HPV51_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv51qvdtumor.png",
+            "name": "HPV51_QVD_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv51qvdmetln.png",
+            "name": "HPV51_QVD_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv7ksatumor.png",
+            "name": "HPV7_KSA_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv7ksametln.png",
+            "name": "HPV7_KSA_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv7pd1postumor.png",
+            "name": "HPV7_PD1pos_Tumor"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv7pd1posmetln.png",
+            "name": "HPV7_PD1pos_metLN"
+          },
+          {
+            "src": "/research/bsi/projects/adhoc/s304818.Single-cell-TCR-RNA-seq/immunopipe-EberhardtCS-2021/Immunopipe-output/Immunarch/samples.immunarch.immunarch/vj_junc/DEFAULT/hpv7qvdmetln.png",
+            "name": "HPV7_QVD_metLN"
+          }
+        ]
+      }
+    }
+  }
+}
